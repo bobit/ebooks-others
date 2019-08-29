@@ -1,1 +1,1 @@
-Welcome to the demo-rabbitmq docs!
+Welcome to the ebooks-others docs!
